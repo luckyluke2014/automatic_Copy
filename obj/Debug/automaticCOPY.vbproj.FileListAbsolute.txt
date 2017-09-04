@@ -1,0 +1,38 @@
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.exe
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.xml
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.Form1.resources
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.vbproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.exe
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.xml
+c:\users\lucas\documents\visual studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.pdb
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.vbprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\IKVM.Runtime.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\commons-logging.dll
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\automaticCOPY\automaticCOPY\bin\Debug\fontbox-1.8.9.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.exe.config
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.exe
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.xml
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.pdb
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.exe
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.pdb
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\automaticCOPY.xml
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\pdfbox-1.8.9.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\IKVM.Runtime.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\commons-logging.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\bin\Debug\fontbox-1.8.9.dll
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.vbprojResolveAssemblyReference.cache
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.Form1.resources
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.Resources.resources
+C:\in arbeit\automaticCopyv33\automaticCOPY\automaticCOPY\obj\Debug\automaticCOPY.vbproj.GenerateResource.Cache

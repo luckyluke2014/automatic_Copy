@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>pdftotext</name>
+    </assembly>
+    <members>
+        <member name="T:ExpertPdf.PdfToTextConverter">
+            <summary>
+            The PDF to Text converter class
+            </summary>
+        </member>
+        <member name="M:ExpertPdf.PdfToTextConverter.#ctor">
+            <summary>
+            PDF to Text converter constructor
+            </summary>
+        </member>
+        <member name="M:ExpertPdf.PdfToTextConverter.ConvertToText(System.IO.Stream)">
+            <summary>
+            Converts a PDF document stream to a string.
+            </summary>
+            <param name="pdfStream">The binary stream providing the PDF document bytes. It can be for example a
+            FileStream to convert a PDF file to text or a MemoryStream to convert the PDF document 
+            represented as an array of bytes to text.</param>
+            <returns>The text resulted after conversion.</returns>
+        </member>
+        <member name="M:ExpertPdf.PdfToTextConverter.ConvertToText(System.String)">
+            <summary>
+            Converts a PDF file to a string.
+            </summary>
+            <param name="pdfFilePath">The full path of the PDF file to be converted.</param>
+            <returns>The text resulted after conversion.</returns>
+        </member>
+        <member name="M:ExpertPdf.PdfToTextConverter.GetPageCount(System.IO.Stream)">
+            <summary>
+            Gets the number of pages in the specified PDF stream.
+            </summary>
+            <param name="pdfStream">The stream containing the PDF document.</param>
+            <returns>The number of pages in the PDF document.</returns>
+        </member>
+        <member name="M:ExpertPdf.PdfToTextConverter.GetPageCount(System.String)">
+            <summary>
+            Gets the number of pages in the specified PDF file.
+            </summary>
+            <param name="pdfFilePath">The path of the file containing the PDF document.</param>
+            <returns>The number of pages in the PDF document.</returns>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.AddHtmlMetaTags">
+            <summary>
+            When this property is true the extracted text is included in a HTML document with the meta info taken 
+            from the PDF document description. The default value is false.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.HtmlCharset">
+            <summary>
+            The charset meta tag added to the generated HTML document. This property has effect only when the AddHtmlMetaTags
+            property is true. The default value is UTF-8.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.MarkPageBreaks">
+            <summary>
+            When this property is true a special character defined by the PAGE_BREAK_MARK property is inserted after the text extracted from each page.
+            The default value is false.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.StartPageNumber">
+            <summary>
+            The page number from where the text extraction will start. The default value is 1 which means the text extraction
+            will start from the first page.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.EndPageNumber">
+            <summary>
+            The page number where the text extraction will end. The default value is 0 which means that all the PDF document text 
+            will be extracted starting from the StartPageNumber page.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.UserPassword">
+            <summary>
+            The ASCII password to be used to open the PDF document for reading. The default value is null which means that
+            no password will be used to open the PDF document.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.LicenseKey">
+            <summary>
+            The license key string received after the product purchase or 
+            a demo license key for the demo version of the converter. This propery must be set
+            before calling the text extraction method. When this property is null, the converter
+            will run in demo mode.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.PAGE_BREAK_MARK">
+            <summary>
+            Gets the page break mark character used when the MarkPageBreaks property is true.
+            </summary>
+        </member>
+        <member name="P:ExpertPdf.PdfToTextConverter.Layout">
+            <summary>
+            Gets or sets the layout of the output text. The default value is OriginalLayout.
+            </summary>
+        </member>
+        <member name="T:ExpertPdf.TextLayout">
+            <summary>
+            The output text layout.
+            </summary>
+        </member>
+        <member name="F:ExpertPdf.TextLayout.OriginalLayout">
+            <summary>
+            The original layout of the text from the PDF document is preserved.
+            </summary>
+        </member>
+        <member name="F:ExpertPdf.TextLayout.ReadingLayout">
+            <summary>
+            The text is produced in reading order.
+            </summary>
+        </member>
+    </members>
+</doc>
