@@ -1,0 +1,6 @@
+# automatic_Copy
+search and copy tool 
+you can search a folder and subfolders for some criteria and copy the files with the criteria to a destination folder,
+you can also search the files and pdf (textbased) for words , big files can make the tool crash... 
+It's the first time I uploaded something on github so might be I have done something wrong .. , you will need a vb.net compiler visual studio
+it's written in vb.net 2013 newer versions of vb.net may import this files .. don't know if correctly....
